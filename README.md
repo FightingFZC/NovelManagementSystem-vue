@@ -1,7 +1,9 @@
 # nms
 
+
 > A Vue.js project
->
+>### 一、前端项目源代码
+>vue项目源代码 [NovelManagementSystem-vue](https://github.com/FightingFZC/NovelManagementSystem-vue)
 > 是 文章管理系统 的前端项目代码，源代码在src下。
 >
 > 默认端口是8081，本地后端代码的默认端口是8080。
